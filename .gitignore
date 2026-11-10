@@ -1,0 +1,12 @@
+# machine-specific files (created while using it)
+calibration.json
+arm_ip.txt
+table_plane.json
+# downloaded by setup_pi.sh
+models/
+# python / OS junk
+__pycache__/
+*.pyc
+.DS_Store
+# recordings
+*.mp4
